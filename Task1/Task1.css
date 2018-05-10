@@ -1,0 +1,12 @@
+#Box1 {
+	Border: 5px solid black;
+	height: 300px;
+	width: 300px;
+	Background-color: Green;
+}
+#Box2 {
+	Border: 5px solid black;
+	height: 300px;
+	width: 300px;
+	Background-color: Red;
+}
